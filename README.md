@@ -12,13 +12,13 @@ Meta-skill para Claude Code: pega um vêÂ­deo bruto (com cortes, silêÂª
 O arquivo pronto para o Claude Code estêÂ¡ em [`download/forja-reel.skill`](download/forja-reel.skill).
 
 ## Guia de uso
-Landing + guia passo a passo em [`guia/`](guia/) ê¢â¬â publicado em [inematds.github.io/videos-edit-cria/guia/](https://inematds.github.io/videos-edit-cria/guia/).
+Landing + guia passo a passo em [`guia/`](guia/) ê¢â¬â publicado em [linnoff88-dev.github.io/arckhe-/guia/](https://linnoff88-dev.github.io/arckhe-/guia/).
 
 ## Quer aprender a fundo?
-O curso completo (4 trilhas, navegêÂ¡vel) vive em [inematds/videos-edit-curso](https://inematds.github.io/videos-edit-curso/).
+O curso completo (4 trilhas, navegêÂ¡vel) vive em [linnoff88-dev/videos-edit-curso](https://linnoff88-dev.github.io/arckhe-/).
 
 ---
-Feito para a comunidade êÂ· [INEMA.CLUB](https://inema.club)
+Feito para a comunidade êÂ· [ARCKHÉ AI](https://ARCKHÉ AI)
 
 ---
 
